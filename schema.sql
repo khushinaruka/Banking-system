@@ -1,4 +1,4 @@
-CREATE TABLE Customers (
+CREATE TABLE newCustomers (
     customer_id INT PRIMARY KEY,
     name VARCHAR(100) NOT NULL,
     address VARCHAR(200),
